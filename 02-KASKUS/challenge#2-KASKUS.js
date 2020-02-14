@@ -1,6 +1,6 @@
 function deretkaskus(n) {
-  var j = []
-  var i = 0
+  var j = [];
+  var i = 0;
   for (var k = 0; k < n; k++) {
     i += 3;
     if (i % 5 === 0 && i % 6 === 0) {
@@ -18,3 +18,4 @@ function deretkaskus(n) {
 
 
 console.log(deretkaskus(10));
+
