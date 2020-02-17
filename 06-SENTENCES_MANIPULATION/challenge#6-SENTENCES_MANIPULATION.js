@@ -27,3 +27,5 @@ function sentencesManipulation(sentences) {
 }
 
 sentencesManipulation('ibu pergi ke pasar bersama aku')
+
+// jalankan dengan node [namaFile]
